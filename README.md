@@ -1,1 +1,1 @@
-# ai-eng-capstine-project
+# ai-eng-capstone-project
